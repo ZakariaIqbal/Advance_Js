@@ -8,7 +8,7 @@ when you call a element from an array that isn't present .
 */
 //null is shown then you defiend the variable as null or empty;
 
-
+ 
 let pakhi;
     console.log (pakhi);
 
@@ -20,7 +20,7 @@ function add (num1,num2)
 const result = add(13,14);
     console.log (result);
 
-const boy ={name :"Zakaria" , reg :1014};
+const boy ={name :"Zakaria" , reg :2020 };
     console.log(boy.gf);
 
  const oy =undefined;   
